@@ -11,8 +11,7 @@ Page d'accueil : Une présentation visuelle impactante avec un aperçu des plats
 
 À propos / Notre Histoire : Section présentant l'équipe, la philosophie culinaire et les engagements du restaurant.
 
-Menu & Spécialités : Présentation claire de la carte et des formules du moment.
-
+Menu & Spécialités : Présentation claire de la carte et des formules du moment      .
 Page / Section Contact : Formulaire de contact dynamique, coordonnées (adresse, téléphone, email) et localisation.
 
 Design Responsive : Adaptation optimale sur tous les supports (mobiles, tablettes et ordinateurs).
